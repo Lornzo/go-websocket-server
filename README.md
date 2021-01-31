@@ -31,3 +31,7 @@
 ## 注意事項
 * 前端連進來的時候，請使用WebSocket協定
 
+```
+Written by 赤兔
+Last Update : 2021-01-31
+```
